@@ -1,5 +1,5 @@
 
-# 🧮 **Constructeurs et destructeurs**
+# 🧮 **Constructeurs et destructeurs 2**
 
 ## 📘 Description
 
@@ -17,7 +17,7 @@ Ce document regroupe deux projets C++ illustrant des concepts essentiels de la p
 projets
 ├── SuiviLivres/
 │   ├── SuiviLivresBibliotheque.h
-│   └── main.cpp
+│   └── Programme.cpp
 ├── UniversiteEtudiants/
 │   └── universite_etudiants.cpp
 └── README.md
@@ -61,9 +61,9 @@ Méthodes :
 ## 🖥️ Example Execution
 
 ### Suivi des Livres dans une Bibliothèque : 
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/3c795de6-23be-4166-ac2c-259914995a57" />
 ### Gestion des Étudiants et de l’Université :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/ac115f73-9b84-4ecc-a89e-9d8796b75b1f" />
 ## 💡 Concepts Practiced
 
 - L’usage des attributs statiques pour le comptage global
